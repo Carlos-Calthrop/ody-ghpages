@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ody-ghpages/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ody-ghpages/static/js/main.cea277f6.chunk.js",
+    "main.js.map": "/ody-ghpages/static/js/main.cea277f6.chunk.js.map",
+    "runtime-main.js": "/ody-ghpages/static/js/runtime-main.a23e630e.js",
+    "runtime-main.js.map": "/ody-ghpages/static/js/runtime-main.a23e630e.js.map",
+    "static/js/2.02073ab3.chunk.js": "/ody-ghpages/static/js/2.02073ab3.chunk.js",
+    "static/js/2.02073ab3.chunk.js.map": "/ody-ghpages/static/js/2.02073ab3.chunk.js.map",
+    "index.html": "/ody-ghpages/index.html",
+    "precache-manifest.05cabc190373f6eac5b6317375bea4d0.js": "/ody-ghpages/precache-manifest.05cabc190373f6eac5b6317375bea4d0.js",
+    "service-worker.js": "/ody-ghpages/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ody-ghpages/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.02073ab3.chunk.js.LICENSE.txt": "/ody-ghpages/static/js/2.02073ab3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ody-ghpages/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a23e630e.js",
+    "static/js/2.02073ab3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.cea277f6.chunk.js"
+  ]
+}
